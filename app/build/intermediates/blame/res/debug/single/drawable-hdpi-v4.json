@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\setting_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contacts_unselected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\contacts_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\news_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_unselected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\message_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contacts_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\contacts_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\message_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_unselected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\setting_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_unselected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\news_unselected.png"
+    }
+]
