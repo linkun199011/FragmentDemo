@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/home/linkun/workspace/github/FragmentDemo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

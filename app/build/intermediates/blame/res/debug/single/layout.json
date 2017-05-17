@@ -1,22 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_layout.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\news_layout.xml"
+        "merged": "/home/linkun/workspace/github/FragmentDemo/app/build/intermediates/res/merged/debug/layout/message_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/app/src/main/res/layout/message_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_layout.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\message_layout.xml"
+        "merged": "/home/linkun/workspace/github/FragmentDemo/app/build/intermediates/res/merged/debug/layout/news_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/app/src/main/res/layout/news_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_layout.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\contacts_layout.xml"
+        "merged": "/home/linkun/workspace/github/FragmentDemo/app/build/intermediates/res/merged/debug/layout/setting_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/app/src/main/res/layout/setting_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_layout.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\setting_layout.xml"
+        "merged": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/linkun/workspace/github/FragmentDemo/app/build/intermediates/res/merged/debug/layout/contacts_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/app/src/main/res/layout/contacts_layout.xml"
+    },
+    {
+        "merged": "/home/linkun/workspace/github/FragmentDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\news_layout.xml"
+    },
+    {
+        "merged": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\setting_layout.xml"
+    },
+    {
+        "merged": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\contacts_layout.xml"
+    },
+    {
+        "merged": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_layout.xml",
+        "source": "/home/linkun/workspace/github/FragmentDemo/C:\\Users\\Administrator\\AndroidStudioProjects\\FragmentDemo\\app\\src\\main\\res\\layout\\message_layout.xml"
     }
 ]
