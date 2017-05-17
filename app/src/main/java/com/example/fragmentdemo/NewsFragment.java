@@ -15,5 +15,4 @@ public class NewsFragment extends Fragment {
 				false);
 		return newsLayout;
 	}
-
 }
